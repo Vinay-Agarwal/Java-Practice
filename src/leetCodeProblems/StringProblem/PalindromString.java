@@ -1,4 +1,4 @@
-package leetCode_StringProblem;
+package leetCodeProblems.StringProblem;
 
 public class PalindromString {
 
@@ -13,7 +13,7 @@ public class PalindromString {
 		
 		String revString = "";
 		
-		for(int i=s.length();i>=0;i--) {
+		for(int i=s.length()-1;i>=0;i--) {
 			revString = revString+s.charAt(i);
 		}
 		

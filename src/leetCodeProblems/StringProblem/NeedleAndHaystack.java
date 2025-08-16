@@ -1,4 +1,4 @@
-package leetCode_StringProblem;
+package leetCodeProblems.StringProblem;
 
 public class NeedleAndHaystack {
 
