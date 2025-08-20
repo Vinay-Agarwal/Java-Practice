@@ -1,4 +1,4 @@
-package patternSolution;
+	package patternSolution;
 
 public class StarPatterRevereseStairs {
 
